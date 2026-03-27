@@ -1,0 +1,14 @@
+{
+  "name": "frame-token-launcher",
+  "version": "0.1.0",
+  "description": "Launch a memecoin on Base directly from a Frame",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
